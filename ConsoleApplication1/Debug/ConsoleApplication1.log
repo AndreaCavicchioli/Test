@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\andrea\desktop\consoleapplication1\consoleapplication1\source.cpp(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  ConsoleApplication1.vcxproj -> C:\Users\andrea\Desktop\ConsoleApplication1\Debug\ConsoleApplication1.exe
+  ConsoleApplication1.vcxproj -> C:\Users\andrea\Desktop\ConsoleApplication1\Debug\ConsoleApplication1.pdb (Full PDB)
